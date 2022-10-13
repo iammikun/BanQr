@@ -15,6 +15,10 @@
   /* opacity: 4%; */
 }
 
+.heroSection {
+  width: 100%;
+}
+
 .heroSection h1 {
   font-style: normal;
   font-weight: 700;
