@@ -1,0 +1,56 @@
+.main {
+  align-items: center;
+  padding-top: 10rem;
+}
+
+.methodContent h2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.5rem;
+  line-height: 73px;
+  text-align: center;
+  color: #ffffff;
+  font-family: "Inter", sans-serif;
+}
+
+.methodContent h3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  color: #ffffff;
+  opacity: 0.7;
+  margin-top: 1.2rem;
+}
+
+.Methods {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 90%;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.methods2 {
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  margin: 0 auto;
+  gap: 2.8rem;
+  justify-content: space-between;
+}
+
+.methodContent2 h3 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  color: #ffffff;
+  opacity: 0.7;
+  margin-top: 3.5rem;
+}
